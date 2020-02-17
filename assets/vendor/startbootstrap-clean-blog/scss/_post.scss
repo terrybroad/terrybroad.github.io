@@ -2,6 +2,7 @@
 .post-preview {
   > a {
     color: $gray-900;
+    max-width: 100%;
     &:focus,
     &:hover {
       text-decoration: none;
